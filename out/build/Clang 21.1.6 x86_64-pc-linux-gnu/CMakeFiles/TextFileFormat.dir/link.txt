@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/TextFileFormat.dir/link.d CMakeFiles/TextFileFormat.dir/main.cpp.o -o TextFileFormat
